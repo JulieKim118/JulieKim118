@@ -3,7 +3,7 @@ I'm a Software Engineering student in my final year, studying in University of A
 Reach me through: [Email](kimjulie118@gmail.com) | [LinkedIn](www.linkedin.com/in/julie-kim-081101y)
 
 ### My Skills
-🖥️ `Java` | `Swift` | `C++` | `Python` | `CSS` | `HTML` | `MySQL`  
+🖥️ `Java` | `Swift` | `C++` | `React` | `Javascript` | `CSS` | `HTML` | `MySQL`  
 🦊 `Problem-solving` | `Leadership` | `Fast-learning` | `Self-development`  
 
 
@@ -18,17 +18,3 @@ Reach me through: [Email](kimjulie118@gmail.com) | [LinkedIn](www.linkedin.com/i
 🌱 Learn more from industrial mentors  
 😄 Meet new people to create synergy  
 
-<!--
-**JulieKim118/JulieKim118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
